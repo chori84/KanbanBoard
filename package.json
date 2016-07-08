@@ -1,0 +1,22 @@
+{
+  "name": "kanban",
+  "version": "0.1.0",
+  "description": "Pro React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chori84/KanbanBoard.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Chori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chori84/KanbanBoard/issues"
+  },
+  "homepage": "https://github.com/chori84/KanbanBoard#readme"
+}
