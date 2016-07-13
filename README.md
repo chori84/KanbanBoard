@@ -8,3 +8,4 @@ import { render } from 'react-dom';
 ...
 render(<KanbanBoard cards={cardsList} />, document.getElementById('root'));
 ```
+ - Dynamic Child에 key 속성 추가 : [관련 내용](https://facebook.github.io/react/docs/multiple-components.html#dynamic-children)
