@@ -20,7 +20,6 @@
     "url": "https://github.com/chori84/KanbanBoard/issues"
   },
   "homepage": "https://github.com/chori84/KanbanBoard#readme",
-
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
@@ -29,9 +28,12 @@
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   },
-
   "dependencies": {
+    "babel-polyfill": "^6.9.1",
+    "marked": "^0.3.5",
     "react": "^15.2.0",
-    "react-dom": "^15.2.0"
+    "react-addons-update": "^15.3.0",
+    "react-dom": "^15.2.0",
+    "whatwg-fetch": "^1.0.0"
   }
 }
