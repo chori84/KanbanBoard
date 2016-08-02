@@ -2,7 +2,7 @@
   "name": "kanban",
   "version": "0.1.0",
   "description": "Pro React",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node_modules/.bin/webpack-dev-server --host 0.0.0.0 --progress"
@@ -32,7 +32,10 @@
     "babel-polyfill": "^6.9.1",
     "marked": "^0.3.5",
     "react": "^15.2.0",
+    "react-addons-css-transition-group": "^15.3.0",
     "react-addons-update": "^15.3.0",
+    "react-dnd": "^2.1.4",
+    "react-dnd-html5-backend": "^1.0.0",
     "react-dom": "^15.2.0",
     "whatwg-fetch": "^1.0.0"
   }
